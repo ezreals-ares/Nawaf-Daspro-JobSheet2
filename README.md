@@ -1,2 +1,3 @@
 # Nawaf-Daspro-JobSheet2
-Repository pertama
+
+Hello Github, ini adalah repository ku yang pertama
